@@ -14,4 +14,4 @@ elif idade == 18:
 else:
  print('menor idade')
 
-print(f'A idade {idade} é de fulano')
+print(f'A idade {idade} é de fulano') 
