@@ -11,7 +11,6 @@ subtracao=(num1-num2)
 multiplicacao=(num1*num2)
 divisao=(num2/num1)
 
-#def process_operacao(operacao):
 match operacao:
      case '+':
         print(f'soma: {soma}')
