@@ -8,4 +8,4 @@ def BubbleSport(lista):
 
 lista = [2,12,3,0,8,90,69]
 lista_ordenada = BubbleSport(lista)
-print("Lista ordenada:", lista_ordenada)
+print(f"Lista ordenada {lista_ordenada}")
