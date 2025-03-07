@@ -28,11 +28,13 @@ match escolha:
         desconto=(10/100)
         valor_descontado= (valor*desconto)
         total=(valor-valor_descontado)
-        print(f'o valor foi de: {valor} Reais')
-        print()
-        print(f'com o desconto de 10% foi de {valor_descontado} Reais')
-        print()
-        print(f'o valor total foi de {total} reais')
+        print(f"""
+        o valor foi de: {valor} Reais
+        
+        com o desconto de 10% foi de {valor_descontado} Reais
+       
+       o valor total foi de {total} reais
+        """)
 
     case 2:
         print('---á prazo---')

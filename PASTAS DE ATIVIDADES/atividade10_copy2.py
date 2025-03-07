@@ -6,13 +6,13 @@ print("""
 
 CODIGO:     PRATO:     PREÇO:
 
-   1        DOMINGO      
-   2        SEGUNDA-FEIRA      
-   3        TERÇA-FEIRA    
-   4        QUARTA-FEIRA
-   5        QUINTA-FEIRA 
-   6        SEXTA-FEIRA   
-   7        SABADO 
+   1 -       DOMINGO      
+   2 -       SEGUNDA-FEIRA      
+   3 -       TERÇA-FEIRA    
+   4 -       QUARTA-FEIRA
+   5 -       QUINTA-FEIRA 
+   6 -       SEXTA-FEIRA   
+   7 -       SABADO 
 """)
 
 print()
