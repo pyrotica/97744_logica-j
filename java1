@@ -1,0 +1,17 @@
+import java.util.Scanner;
+public class ati2 {
+    
+    public static void main(String[] args) {
+       int nota=7;   
+        Scanner ler = new Scanner(System.in);
+
+        if (nota>=7) {
+            System.out.println("aprovado");
+        }else if (nota==5){
+            System.out.println("recuperação");
+        }else {
+        
+            System.out.println("reprovado");
+        }
+    }
+}
