@@ -21,7 +21,7 @@ print("""
 
 print()
 
-num=int(input("digite o primeiro numero: "))
+num=int(input("digite o numero equivalenteao mês: "))
 
 print()
 
